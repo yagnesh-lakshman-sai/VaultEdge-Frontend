@@ -82,7 +82,7 @@ const Sidebar = () => {
         <div style={styles.sidebarBottom}>
           <div style={styles.helpCard}>
             <p style={styles.helpTitle}>Need Help?</p>
-            <p style={styles.helpText}>support@smartbank.com</p>
+            <p style={styles.helpText}>support@vaultedge.com</p>
           </div>
         </div>
       </aside>
