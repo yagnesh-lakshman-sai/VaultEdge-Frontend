@@ -29,7 +29,7 @@ const AdminLayout = ({ children }) => {
       <nav style={styles.navbar}>
         <div style={styles.brand}>
           <span>🏦</span>
-          <span style={styles.brandName}>Smart Bank — Admin</span>
+          <span style={styles.brandName}>VaultEdge Bank — Admin</span>
         </div>
 
         <div style={styles.navRight}>
